@@ -1,10 +1,9 @@
 # 👋 Hello Coders! I'm **Rapha C. Lucena**
 
-Welcome to my corner of the internet — a place where code meets creativity. 🚀  
-_*Bem-vindo ao meu cantinho da internet — onde código e criatividade se encontram.*_
+Bem-vindo ao meu cantinho da internet — onde código e criatividade se encontram. 🚀  
+_*Welcome to my corner of the internet — a place where code meets creativity.*_
 
 📍 **Sorocaba – SP, Brasil**  
-_*Sorocaba – SP, Brazil*_
 
 ---
 
@@ -48,20 +47,20 @@ Git & GitHub · APIs · Python Basics · Responsive Design
 ### 🛠️ Tools  
 VS Code · Figma · Elementor  
 
-#### 🎨 Design / 2D  
+### 🎨 Design / 2D  
 Photoshop · Illustrator · InDesign · Affinity Suite · Canva · Krita  
 
-#### 🎬 Vídeo / Motion  
+### 🎬 Vídeo / Motion  
 After Effects · Premiere · DaVinci Resolve  
 
-#### 🧱 3D / VFX  
+### 🧱 3D / VFX  
 Blender · Maya · 3ds Max · Cinema4D · ZBrush · Houdini · Substance Painter · Substance Designer · Unreal Engine  
 
-#### 🔊 Áudio  
+### 🔊 Áudio  
 Audition · FL Studio  
 
-#### 🤖 IA – Image / Video / Audio  
-ComfyUI · Midjourney · LeonardoAI · Runway · Pika · Sora · ChatGPT  
+### 🤖 IA – Image / Video / Audio  
+ComfyUI · Midjourney · LeonardoAI · Runway · Sora · ChatGPT  
 
 ---
 
@@ -72,11 +71,11 @@ _*Art is what drives me — it’s how I interpret and build the world.*_
 ---
 
 # 🌱 Estudando Agora  
-Aprofundando conhecimentos em **Python**, bibliotecas e aplicações.  
+Aprofundando conhecimentos em **Python e IA**, bibliotecas e aplicações.  
 Explorando **Node.js, Angular, React**.  
 Estudando **Java**, **C** e **C++**.  
 
-_*Deepening knowledge in Python, libraries and applications.  
+_*Deepening knowledge in Python and IA, libraries and applications.  
 Exploring Node.js, Angular and React.  
 Studying Java, C and C++.*_
 
