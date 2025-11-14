@@ -11,9 +11,7 @@ _*Sorocaba – SP, Brazil*_
 # 📫 Let's Connect  
 _*Conecte-se comigo*_
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaclucena/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hibardstudio.com.br/)  
-[![Email](https://img.shields.io/badge/Email-Contact-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaclucena@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaclucena/)[![Portfolio](https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hibardstudio.com.br/)[![Email](https://img.shields.io/badge/Email-Contact-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaclucena@gmail.com)
 
 ---
 
@@ -40,39 +38,30 @@ Coding became my second creative language — a way to design experiences, solut
 
 ### 🎨 Front-End  
 HTML · CSS · JavaScript · React · Tailwind · Bootstrap  
-_*HTML · CSS · JavaScript · React · Tailwind · Bootstrap*_
 
 ### 🧩 Back-End  
 PHP · MySQL · WordPress  
-_*PHP · MySQL · WordPress*_
 
 ### 🧰 Other Skills  
 Git & GitHub · APIs · Python Basics · Responsive Design  
-_*Git & GitHub · APIs · Python Basics · Responsive Design*_
 
 ### 🛠️ Tools  
 VS Code · Figma · Elementor  
-_*VS Code · Figma · Elementor*_
 
 #### 🎨 Design / 2D  
 Photoshop · Illustrator · InDesign · Affinity Suite · Canva · Krita  
-_*Photoshop · Illustrator · InDesign · Affinity Suite · Canva · Krita*_
 
 #### 🎬 Vídeo / Motion  
 After Effects · Premiere · DaVinci Resolve  
-_*After Effects · Premiere · DaVinci Resolve*_
 
 #### 🧱 3D / VFX  
 Blender · Maya · 3ds Max · Cinema4D · ZBrush · Houdini · Substance Painter · Substance Designer · Unreal Engine  
-_*Blender · Maya · 3ds Max · Cinema4D · ZBrush · Houdini · Substance Painter · Substance Designer · Unreal Engine*_
 
 #### 🔊 Áudio  
 Audition · FL Studio  
-_*Audition · FL Studio*_
 
 #### 🤖 IA – Image / Video / Audio  
 ComfyUI · Midjourney · LeonardoAI · Runway · Pika · Sora · ChatGPT  
-_*ComfyUI · Midjourney · LeonardoAI · Runway · Pika · Sora · ChatGPT*_
 
 ---
 
