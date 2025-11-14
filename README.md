@@ -1,48 +1,97 @@
+# 👋 Hello Coders! I'm **Rapha C. Lucena**
 
-# 👋 Hello Coders! I'm Rapha!
+Welcome to my corner of the internet — a place where code meets creativity. 🚀  
+_*Bem-vindo ao meu cantinho da internet — onde código e criatividade se encontram.*_
 
-Welcome to my corner of the internet — a place where code meets creativity. 🚀
-
-## 👨‍💻 About Me
-I am a **VFX artist, art director, and digital designer** who believes creation has no boundaries.
-
-For over a decade, I’ve shaped stories with Netflix, Globo Filmes, Amazon Prime Video, MAX and beyond.
-
-In code, I found another language for imagination — front-end, back-end, Python — new colors for my canvas.
-
-Art and programming dance together, building worlds that can be seen, felt, and experienced.
-
-Here, every line of code is a brushstroke of possibility.
-
-## 🎯 What Drives Me
-Art, in all its forms, is what moves me — it’s the lens through which I see and shape the world.
-
-Solving real problems through creativity is my fuel, blending logic and imagination into something tangible.
-
-I believe art and creativity are what make reality magical, turning ideas into new worlds, identities and visual solutions.
-
-Each project is a chance to expand the universe through the endless bridges between different artistic fields.
-
-In every discipline, I find new ways to spark imagination and build the extraordinary.
-
-## 🛠️ Tech Stack
-- **Front-End:** HTML, CSS, JavaScript, Bootstrap, Tailwind, React (learning more every day!)
-- **Back-End:** PHP, MySQL, WordPress
-- **Other Skills:** Git & GitHub, Python basics, APIs integration, Responsive Design
-- **Tools:** VS Code, Figma, WordPress Elementor, Postman
-
-## 🌱 Currently
-- Diving deeper into React.js and Python development.
-- Improving my full-stack knowledge and exploring new frameworks.
-
-## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/raphaclucena/) | [Portfolio Website](https://www.hibardstudio.com.br/) | [Email Me: Let's talk!](mailto:raphaclucena@gmail.com)
+📍 **Sorocaba – SP, Brasil**  
+_*Sorocaba – SP, Brazil*_
 
 ---
 
-> *"Code is not just lines — it's art, it's problem-solving, it's a way of thinking."*
+# 📫 Let's Connect  
+_*Conecte-se comigo*_
 
-Thanks for stopping by! Feel free to explore my repositories, fork ideas, or collaborate! 🤝
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaclucena/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hibardstudio.com.br/)  
+[![Email](https://img.shields.io/badge/Email-Contact-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaclucena@gmail.com)
 
 ---
 
+# 👨‍💻 Sobre Mim  
+Sou artista VFX, diretor de arte e designer digital com mais de uma década criando narrativas visuais para **Netflix, Amazon Prime Video, Globo Filmes e HBO Max**.  
+A programação se tornou meu segundo idioma criativo — uma forma de construir experiências, soluções e mundos digitais unindo lógica, estética e imaginação.
+
+_*I’m a VFX artist, art director and digital designer with over a decade crafting visual narratives for Netflix, Amazon Prime Video, Globo Filmes and HBO Max.  
+Coding became my second creative language — a way to design experiences, solutions and digital worlds blending logic, aesthetics and imagination.*_
+
+### ⭐ Highlights  
+- ✨ 10+ anos em direção de arte, VFX e design  
+  _*10+ years in art direction, VFX and design*_
+- 🚀 Experiência com grandes players de streaming  
+  _*Experience with major streaming platforms*_
+- 🎭 Criatividade multidisciplinar  
+  _*Multidisciplinary creativity*_
+- 🌐 Expandindo atuação em desenvolvimento e tecnologia  
+  _*Expanding work in development and technology*_
+
+---
+
+# 🛠️ Tech Stack
+
+### 🎨 Front-End  
+HTML · CSS · JavaScript · React · Tailwind · Bootstrap  
+_*HTML · CSS · JavaScript · React · Tailwind · Bootstrap*_
+
+### 🧩 Back-End  
+PHP · MySQL · WordPress  
+_*PHP · MySQL · WordPress*_
+
+### 🧰 Other Skills  
+Git & GitHub · APIs · Python Basics · Responsive Design  
+_*Git & GitHub · APIs · Python Basics · Responsive Design*_
+
+### 🛠️ Tools  
+VS Code · Figma · Elementor  
+_*VS Code · Figma · Elementor*_
+
+#### 🎨 Design / 2D  
+Photoshop · Illustrator · InDesign · Affinity Suite · Canva · Krita  
+_*Photoshop · Illustrator · InDesign · Affinity Suite · Canva · Krita*_
+
+#### 🎬 Vídeo / Motion  
+After Effects · Premiere · DaVinci Resolve  
+_*After Effects · Premiere · DaVinci Resolve*_
+
+#### 🧱 3D / VFX  
+Blender · Maya · 3ds Max · Cinema4D · ZBrush · Houdini · Substance Painter · Substance Designer · Unreal Engine  
+_*Blender · Maya · 3ds Max · Cinema4D · ZBrush · Houdini · Substance Painter · Substance Designer · Unreal Engine*_
+
+#### 🔊 Áudio  
+Audition · FL Studio  
+_*Audition · FL Studio*_
+
+#### 🤖 IA – Image / Video / Audio  
+ComfyUI · Midjourney · LeonardoAI · Runway · Pika · Sora · ChatGPT  
+_*ComfyUI · Midjourney · LeonardoAI · Runway · Pika · Sora · ChatGPT*_
+
+---
+
+# 🎯 O que me move  
+A arte é meu motor — é através dela que interpreto e construo o mundo.  
+_*Art is what drives me — it’s how I interpret and build the world.*_
+
+---
+
+# 🌱 Estudando Agora  
+Aprofundando conhecimentos em **Python**, bibliotecas e aplicações.  
+Explorando **Node.js, Angular, React**.  
+Estudando **Java**, **C** e **C++**.  
+
+_*Deepening knowledge in Python, libraries and applications.  
+Exploring Node.js, Angular and React.  
+Studying Java, C and C++.*_
+
+---
+
+Obrigado por passar por aqui!  
+_*Thanks for stopping by!*_
