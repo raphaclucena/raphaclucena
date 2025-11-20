@@ -65,8 +65,8 @@ ComfyUI · Midjourney · LeonardoAI · Runway · Sora · ChatGPT
 ---
 
 # 🎯 O que me move  
-A arte é meu motor — é através dela que interpreto e construo o mundo.  
-_*Art is what drives me — it’s how I interpret and build the world.*_
+A arte é meu motor é através dela que interpreto e construo o mundo.  
+_*Art is what drives me it’s how I interpret and build the world.*_
 
 ---
 
